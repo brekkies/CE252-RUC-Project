@@ -1,7 +1,7 @@
 # CE252-RUC-Project
 CE 252 RUC Project: Blake Thomas, Ari Gonzalez, Nathan Streater, Archer Gu
 
-Repository contains all data used and the data analysis python code. 
+## Repository contains all data used and the data analysis python code. 
 
 hhv2pub.csv : Household level data (source for income)     Source: 2022 National Household Travel Survey
 
@@ -12,7 +12,7 @@ table_export.csv : Fuel efficiency data by vehicle type,  year    Source: EPA ht
 vehicles.csv : Other vehicle data, not used in final code
 
 
-Python code summary: 
+# Python code summary: 
 
   First, join vehicle data to household data and group by income. Find the proportion of each vehicle/fuel type within each income group. Final result is 'df'
   
